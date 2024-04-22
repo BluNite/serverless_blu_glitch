@@ -35,6 +35,7 @@ This app can also be used for other projects by creating additional routes with 
 Original concept/credit by Developer/Engineer Dave Grey, Tutorial "Hiding Api Keys with NodeJS"
 
 GitHub Weather Dashboard as a Topic Proffessor Steve Griffin and other GitHub pages
+Armond Holmon "Medium"  article Project #4: Record Weather Data Using OpenWeatherMap API on Python
 
 ```
 
