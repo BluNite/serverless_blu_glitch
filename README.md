@@ -5,13 +5,13 @@
 ```
 Purpose:
 protecting data from being viewed in the browser/front-end,
-and for making api calls on the back-end. Private API keys should always remain
-hidden. A great oppertunity to use Node-Fetch which is fairly new.
+and making api calls on the back-end. Private API keys should always remain
+hidden. A great opportunity to use Node-Fetch which is fairly new.
 This app can also be used for other projects by creating additional routes with Express.
 
 ```
 
-## Tecnologies Used
+## Technologies Used
 
 ```
 - Express
