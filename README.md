@@ -1,4 +1,4 @@
-# Serverless Back-End Proxy For Hiding Weather Api Key and making Api Calls using Node-Fetch with Express Framework.
+# 'Glitch' Serverless Back-End Proxy For Hiding Weather Api Key and making Api Calls using Node-Fetch with Express Framework.
 
 ## Describe
 
